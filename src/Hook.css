@@ -1,0 +1,36 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: gray;
+  min-height: 100vh;
+}
+.input-wrapper {
+  width: 300px;
+  height: 400px;
+  padding: 50px;
+  background: lightblue;
+}
+.list {
+  width: 300px;
+  height: 400px;
+  padding: 50px;
+  background: rgb(36, 38, 39);
+}
+.count {
+  width: 300px;
+  height: 400px;
+  padding: 50px;
+  background: rgb(4, 201, 125);
+}
+h1 {
+  color: whitesmoke;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  color: white;
+  padding: 5px 0px;
+  margin-bottom: 10px;
+}
